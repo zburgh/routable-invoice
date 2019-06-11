@@ -1,0 +1,18 @@
+.note {
+  opacity: 0.5;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.note:hover {
+  opacity: 1;
+}
+
+td {
+  padding: 15px 10px;
+  font-size: 12px;
+}
+
+tbody tr td {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}

@@ -1,0 +1,15 @@
+.invoice-page-template {
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto;
+}
+
+.page-container {
+  width: 800px;
+  padding: 70px;
+  background: #fff;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  margin: 0 auto;
+  position: relative;
+  top: 100px;
+}

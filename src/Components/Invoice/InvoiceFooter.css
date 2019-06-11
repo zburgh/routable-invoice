@@ -1,0 +1,12 @@
+.invoice-table-totals {
+  display: grid;
+  grid-template-columns: auto 100px 100px;
+  grid-template-rows: auto auto auto auto;
+  margin: 20px 0;
+}
+
+.invoice-table-totals div {
+  padding: 5px 0;
+  font-size: 12px;
+  font-weight: 600;
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1199.000000, -498.000000)" fill="#000000">
+            <g id="sticky-note" transform="translate(1199.000000, 498.000000)">
+                <g id="Group">
+                    <path d="M16,11.2895 L16,1.71428571 C16,0.7675 15.2325,2.13162821e-14 14.2857143,2.13162821e-14 L1.71428571,2.13162821e-14 C0.7675,2.13162821e-14 0,0.7675 0,1.71428571 L0,14.2852857 C0,15.2320714 0.7675,15.9995714 1.71428571,15.9995714 L11.2899286,15.9995714 C11.7445845,15.9995714 12.180618,15.8189558 12.5021071,15.4974643 L15.4978929,12.5016786 C15.8193843,12.1801895 16,11.7441559 16,11.2895 Z M11.4285714,14.1466429 L11.4285714,11.4281429 L14.1470714,11.4281429 L11.4285714,14.1466429 Z M14.2857143,1.71428571 L14.2857143,9.71385714 L10.5714286,9.71385714 C10.0980357,9.71385714 9.71428571,10.0976071 9.71428571,10.571 L9.71428571,14.2852857 L1.71428571,14.2852857 L1.71428571,1.71428571 L14.2857143,1.71428571 Z" id="Shape" fill-rule="nonzero"></path>
+                    <rect id="Rectangle" x="5" y="5" width="6" height="1"></rect>
+                    <rect id="Rectangle" x="5" y="8" width="6" height="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

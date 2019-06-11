@@ -1,0 +1,57 @@
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 180%;
+}
+
+h3 {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 180%;
+}
+
+h4 {
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 190%;
+}
+
+.grey-text-50 {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+button {
+  padding: 12px;
+  border-radius: 7px;
+  font-weight: 800;
+  font-size: 14px;
+  background: #fff;
+  color: #000;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  outline: 0;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+button:hover {
+  border: 1px solid rgba(0, 0, 0, 0.4);
+}
+
+.primary {
+  background: #557aff;
+  color: #fff;
+  border: none;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  outline: none;
+}
+
+.primary:hover {
+  background: #a78dff;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  border: none;
+}
