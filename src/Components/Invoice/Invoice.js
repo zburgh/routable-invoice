@@ -9,12 +9,11 @@ import "./Invoice.css";
 class Invoice extends Component {
   render() {
     return (
-      <div className="invoice-page-template">
-        <div className="page-container">
-          <InvoiceHeader />
-          <InvoiceTable />
-          <InvoiceFooter />
-        </div>
+      <div className="page-container">
+        <div className="invoice-border" />
+        <InvoiceHeader />
+        <InvoiceTable />
+        <InvoiceFooter />
       </div>
     );
   }
